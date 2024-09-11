@@ -1,0 +1,59 @@
+#Who are key stakeholders? 
+Sales Manager and Sales Department 
+
+#What problem does this dashboard address? 
+Revenue is showing signs of decline, Sales Manager needs information on customer segment analysis to have sales strategies 
+for different segments to improve sales of Adventure Works Bicycles. 
+RFM analysis dashboard provide an overview of Customer Behaviors based on their  Purchase Recency, Frequency and Monetary. 
+Based on the analysis, Sales Manager and Sales Department can customize initiative for each segment or establish priority for specific customer groups. 
+
+#EMPATHY Process 
+1. "What does the stakeholder think and feel?"	
+- Which customer groups should we focus on to increase sales?
+- Which customer groups should we focus on nurturing to convert into higher level customers (higher frequency or higher order value)
+- How to allocate resources appropriately? Priority of customer groups
+2. "What does the stakeholder see?"	
+- Decrease in Sales
+- The market is becoming more competitive, requiring strategies to drive customer loyalty
+3. "What does the stakeholder say?"	
+- Nhiều khách hàng dừng mua hàng của Adventure Works Bicycles 
+- Làm sao để gia tăng doanh số? 
+- Làm sao để giữ chân khách hàng?
+- Với nguồn lực hữu hạn, cần tìm ra những nhóm khách hàng cần tập trung đẩy mạnh để đúng nguyên lý 80% doanh thu được tạo ra từ 20% khách hàng. 
+4. "What are the biggest problems and challenges?"	
+- Team Sales đang tập trung quá nhiều nguồn lực vào những nhóm khách hàng không tạo ra nhiều doanh thu 
+- Những chiến dịch chung, quá phổ quát, không có sự tùy biến cho các nhóm khách hàng làm giảm hiệu quả của chiến dịch 
+- Làm sao để đo lường hiệu quả của những chiến dịch với những nhóm khách hàng 
+- Những khách hàng đã lâu không mua hàng sẽ khó quay lại mua hàng 
+5. "What are the opportunities and benefits?"	
+- Xác định lợi thế cạnh tranh khi  thu hút khách hàng mới bằng cách tìm hiểu thói quen mua sắm của họ tại Adventure Works Bicycles 
+- Việc xác định đúng nhóm khách hàng giá trị cao sẽ giúp đẩy mạnh doanh thu nhanh hơn và hạn chế rủi ro nhóm khách hàng quan trọng có cảm giác bị bỏ rơi 
+
+#STAKEHOLDER JOURNEY 
+Step 1: 
+Xuất phát từ nhu cầu muốn cải thiện doanh số của công ty, Sales Manager và Team Sales mong muốn nhìn tổng quan tình hình khách hàng hiện tại của doanh nghiệp. Sau đó, họ mong muốn tìm ra các nhóm khách hàng trọng điểm: 
+1. Khách hàng mang lại giá trị cao cho doanh nghiệp: Retent, Upsales 
+2. Khách hàng tiềm năng có thể trở thành nhóm giá trị cao: Upsales 
+3. Khách hàng đã dừng sử dụng dịch vụ: Reactivate 
+Ngoài ra dựa vào hành vi của các nhóm, họ sẽ phác thảo các chiến lược duy trì mối quan hệ khách hàng giá trị cao, chuyển đổi khách hàng tiềm năng thành khách hàng thân quen, thu hút khách hàng mới "		
+
+Step 2: 
+Để có được chân dung hoàn hảo nhất của khách hàng, team Sales sẽ nhờ đến team DA để tìm hiểu, tư vấn và trực quan hóa những câu hỏi trên.
+
+Step 3: 
+Sau khi đã có được bản draft dashboard, UTA các bên với nhau xem db đã trả lời đủ các câu hỏi, thông điệp được xác định từ đầu chưa.
+Từ những hình ảnh đó, có thêm ý tưởng nào cần đào sâu không?
+Có cần cải thiện gì ở db không?
+
+Step 4:
+Sử dụng bản db hoàn thiện để đánh giá, lên kế hoạch, và thực hiện các action tiếp theo
+
+
+
+
+
+
+
+
+		
+		
