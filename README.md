@@ -35,10 +35,10 @@ for different segments to improve sales of Adventure Works Bicycles.
 # Analyze Stakeholders' Journey 
 Step 1: 
 - Motivated by the need to improve company revenue, the Sales Manager and Sales Team want a comprehensive view of the current customer situation. 
-They aim to identify key customer groups:
-+ Customers who bring high value to the company: Retention, Upsales | 
-+ Potential customers who could become high-value: Upsales | 
-+ Customers who have stopped purchasing: Reactivation
+- They aim to identify key customer groups:
+Customers who bring high value to the company: Retention, Upsales | 
+Potential customers who could become high-value: Upsales | 
+Customers who have stopped purchasing: Reactivation
 - Based on the behavior of these groups, they will develop strategies to maintain relationships with high-value customers, 
 convert potential customers into loyal ones, and attract new customers.
 
