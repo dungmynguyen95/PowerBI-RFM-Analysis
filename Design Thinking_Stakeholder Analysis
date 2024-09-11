@@ -2,10 +2,10 @@
 Sales Manager and Sales Department 
 
 #What problem does this dashboard address? 
-Revenue is showing signs of decline, Sales Manager needs information on customer segment analysis to have sales strategies 
+- Revenue is showing signs of decline, Sales Manager needs information on customer segment analysis to have sales strategies 
 for different segments to improve sales of Adventure Works Bicycles. 
-RFM analysis dashboard provide an overview of Customer Behaviors based on their  Purchase Recency, Frequency and Monetary. 
-Based on the analysis, Sales Manager and Sales Department can customize initiative for each segment or establish priority for specific customer groups. 
+- RFM analysis dashboard provide an overview of Customer Behaviors based on their  Purchase Recency, Frequency and Monetary. 
+- Based on the analysis, Sales Manager and Sales Department can customize initiative for each segment or establish priority for specific customer groups. 
 
 #EMPATHY Process 
 1. "What does the stakeholder think and feel?"	
@@ -14,39 +14,38 @@ Based on the analysis, Sales Manager and Sales Department can customize initiati
 - How to allocate resources appropriately? Priority of customer groups
 2. "What does the stakeholder see?"	
 - Decrease in Sales
-- The market is becoming more competitive, requiring strategies to drive customer loyalty
+- Increasing market competition, which necessitates strategies to boost customer loyalty
 3. "What does the stakeholder say?"	
-- Nhiều khách hàng dừng mua hàng của Adventure Works Bicycles 
-- Làm sao để gia tăng doanh số? 
-- Làm sao để giữ chân khách hàng?
-- Với nguồn lực hữu hạn, cần tìm ra những nhóm khách hàng cần tập trung đẩy mạnh để đúng nguyên lý 80% doanh thu được tạo ra từ 20% khách hàng. 
+- "Many customers have stopped buying from Adventure Works Bicycles."
+- "How can we increase sales?"
+- "With limited resources, we need to focus on the customer groups that will drive revenue, applying the 80/20 rule — 80% of revenue comes from 20% of customers."
 4. "What are the biggest problems and challenges?"	
-- Team Sales đang tập trung quá nhiều nguồn lực vào những nhóm khách hàng không tạo ra nhiều doanh thu 
-- Những chiến dịch chung, quá phổ quát, không có sự tùy biến cho các nhóm khách hàng làm giảm hiệu quả của chiến dịch 
-- Làm sao để đo lường hiệu quả của những chiến dịch với những nhóm khách hàng 
-- Những khách hàng đã lâu không mua hàng sẽ khó quay lại mua hàng 
+- The Sales Team is dedicating too many resources to customer groups that don’t generate substantial revenue.
+- The campaigns are too general and lack customization for different customer groups, reducing their effectiveness.
+- How do we measure the effectiveness of campaigns targeted at specific customer segments?
+- It’s difficult to re-engage customers who haven’t made purchases for a long time.
 5. "What are the opportunities and benefits?"	
-- Xác định lợi thế cạnh tranh khi  thu hút khách hàng mới bằng cách tìm hiểu thói quen mua sắm của họ tại Adventure Works Bicycles 
-- Việc xác định đúng nhóm khách hàng giá trị cao sẽ giúp đẩy mạnh doanh thu nhanh hơn và hạn chế rủi ro nhóm khách hàng quan trọng có cảm giác bị bỏ rơi 
+- Identifying competitive advantages by attracting new customers through an understanding of their purchasing habits at Adventure Works Bicycles.
+- Correctly identifying high-value customer groups will help drive revenue growth more quickly and reduce the risk of alienating important customer groups.
 
 #STAKEHOLDER JOURNEY 
 Step 1: 
-Xuất phát từ nhu cầu muốn cải thiện doanh số của công ty, Sales Manager và Team Sales mong muốn nhìn tổng quan tình hình khách hàng hiện tại của doanh nghiệp. Sau đó, họ mong muốn tìm ra các nhóm khách hàng trọng điểm: 
-1. Khách hàng mang lại giá trị cao cho doanh nghiệp: Retent, Upsales 
-2. Khách hàng tiềm năng có thể trở thành nhóm giá trị cao: Upsales 
-3. Khách hàng đã dừng sử dụng dịch vụ: Reactivate 
-Ngoài ra dựa vào hành vi của các nhóm, họ sẽ phác thảo các chiến lược duy trì mối quan hệ khách hàng giá trị cao, chuyển đổi khách hàng tiềm năng thành khách hàng thân quen, thu hút khách hàng mới "		
+- Motivated by the need to improve company revenue, the Sales Manager and Sales Team want a comprehensive view of the current customer situation. They aim to identify key customer groups:
+Customers who bring high value to the company: Retention, Upsales | 
+Potential customers who could become high-value: Upsales | 
+Customers who have stopped purchasing: Reactivation
+- Based on the behavior of these groups, they will develop strategies to maintain relationships with high-value customers, convert potential customers into loyal ones, and attract new customers.
 
 Step 2: 
-Để có được chân dung hoàn hảo nhất của khách hàng, team Sales sẽ nhờ đến team DA để tìm hiểu, tư vấn và trực quan hóa những câu hỏi trên.
+To obtain a complete customer profile, the Sales Team will collaborate with the Data Analysis (DA) team to research, consult, and visualize the answers to these questions.
 
 Step 3: 
-Sau khi đã có được bản draft dashboard, UTA các bên với nhau xem db đã trả lời đủ các câu hỏi, thông điệp được xác định từ đầu chưa.
-Từ những hình ảnh đó, có thêm ý tưởng nào cần đào sâu không?
-Có cần cải thiện gì ở db không?
+After drafting the dashboard, stakeholders from both teams will review it together to ensure it addresses all questions and meets the initial objectives.
+From these insights, are there any new ideas to explore?
+Does the dashboard need any improvements?
 
 Step 4:
-Sử dụng bản db hoàn thiện để đánh giá, lên kế hoạch, và thực hiện các action tiếp theo
+Use the finalized dashboard to evaluate, plan, and implement the next actions.
 
 
 
