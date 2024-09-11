@@ -1,19 +1,16 @@
-# PowerBI-RFM-Analysis
+# Project Overview
 This project explores sales data from Adventure Works Bicycles - a fictional bicycle manufacturer. The goal is to uncover trends and insights across different customer segments and product categories to optimize business strategies.
 
-# KEY STAKEHOLDERS
+# Dashboard Key Stakeholders
 Sales Manager and Sales Department 
 
-# STAKEHOLDERS'S OBJECTIVES 
-Increase Revenue
-
-# PROBLEM 
+# Problem addressed by this Dashboard
 - Revenue is showing signs of decline, Sales Manager needs information on customer segment analysis to have sales strategies 
 for different segments to improve sales of Adventure Works Bicycles. 
 - RFM analysis dashboard provide an overview of Customer Behaviors based on their  Purchase Recency, Frequency and Monetary. 
 - Based on the analysis, Sales Manager and Sales Department can customize initiative for each segment or establish priority for specific customer groups. 
 
-# EMPATHY PROCESS 
+# Empathize with Stakeholders' needs 
 1. "What does the stakeholder think and feel?"	
 - Which customer groups should we focus on to increase sales?
 - Which customer groups should we focus on nurturing to convert into higher level customers (higher frequency or higher order value)
@@ -35,7 +32,7 @@ for different segments to improve sales of Adventure Works Bicycles.
 - Identifying competitive advantages by attracting new customers through an understanding of their purchasing habits at Adventure Works Bicycles.
 - Correctly identifying high-value customer groups will help drive revenue growth more quickly and reduce the risk of alienating important customer groups.
 
-# STAKEHOLDER JOURNEY 
+# Analyze Stakeholders' Journey 
 Step 1: 
 - Motivated by the need to improve company revenue, the Sales Manager and Sales Team want a comprehensive view of the current customer situation. 
 They aim to identify key customer groups:
