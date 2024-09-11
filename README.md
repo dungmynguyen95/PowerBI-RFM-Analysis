@@ -1,7 +1,7 @@
 # Project Overview
 This project explores sales data from Adventure Works Bicycles - a fictional bicycle manufacturer. The goal is to uncover trends and insights across different customer segments and product categories to optimize business strategies.
 
-# Dashboard Key Stakeholders
+# Key Stakeholders
 Sales Manager and Sales Department 
 
 # Problem addressed by this Dashboard
