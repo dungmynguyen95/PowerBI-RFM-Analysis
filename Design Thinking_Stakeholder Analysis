@@ -1,13 +1,16 @@
-#Who are key stakeholders? 
+#KEY STAKEHOLDERS
 Sales Manager and Sales Department 
 
-#What problem does this dashboard address? 
+#STAKEHOLDERS's OBJECTIVES 
+Increase Revenue 
+
+#PROBLEM 
 - Revenue is showing signs of decline, Sales Manager needs information on customer segment analysis to have sales strategies 
 for different segments to improve sales of Adventure Works Bicycles. 
 - RFM analysis dashboard provide an overview of Customer Behaviors based on their  Purchase Recency, Frequency and Monetary. 
 - Based on the analysis, Sales Manager and Sales Department can customize initiative for each segment or establish priority for specific customer groups. 
 
-#EMPATHY Process 
+#EMPATHY PROCESS 
 1. "What does the stakeholder think and feel?"	
 - Which customer groups should we focus on to increase sales?
 - Which customer groups should we focus on nurturing to convert into higher level customers (higher frequency or higher order value)
@@ -18,7 +21,8 @@ for different segments to improve sales of Adventure Works Bicycles.
 3. "What does the stakeholder say?"	
 - "Many customers have stopped buying from Adventure Works Bicycles."
 - "How can we increase sales?"
-- "With limited resources, we need to focus on the customer groups that will drive revenue, applying the 80/20 rule — 80% of revenue comes from 20% of customers."
+- "With limited resources, we need to focus on the customer groups that will drive revenue, applying the 80/20 rule — 
+80% of revenue comes from 20% of customers."
 4. "What are the biggest problems and challenges?"	
 - The Sales Team is dedicating too many resources to customer groups that don’t generate substantial revenue.
 - The campaigns are too general and lack customization for different customer groups, reducing their effectiveness.
@@ -30,17 +34,20 @@ for different segments to improve sales of Adventure Works Bicycles.
 
 #STAKEHOLDER JOURNEY 
 Step 1: 
-- Motivated by the need to improve company revenue, the Sales Manager and Sales Team want a comprehensive view of the current customer situation. They aim to identify key customer groups:
-Customers who bring high value to the company: Retention, Upsales | 
-Potential customers who could become high-value: Upsales | 
-Customers who have stopped purchasing: Reactivation
-- Based on the behavior of these groups, they will develop strategies to maintain relationships with high-value customers, convert potential customers into loyal ones, and attract new customers.
+- Motivated by the need to improve company revenue, the Sales Manager and Sales Team want a comprehensive view of the current customer situation. 
+They aim to identify key customer groups:
++ Customers who bring high value to the company: Retention, Upsales | 
++ Potential customers who could become high-value: Upsales | 
++ Customers who have stopped purchasing: Reactivation
+- Based on the behavior of these groups, they will develop strategies to maintain relationships with high-value customers, 
+convert potential customers into loyal ones, and attract new customers.
 
 Step 2: 
-To obtain a complete customer profile, the Sales Team will collaborate with the Data Analysis (DA) team to research, consult, and visualize the answers to these questions.
+To obtain a complete customer profile, the Sales Department will collaborate with the Data Analysis (DA) team to research, 
+consult, and visualize the answers to these questions.
 
 Step 3: 
-After drafting the dashboard, stakeholders from both teams will review it together to ensure it addresses all questions and meets the initial objectives.
+After drafting the dashboard, stakeholders will review it with the analyst to ensure it addresses all questions and meets the initial objectives.
 From these insights, are there any new ideas to explore?
 Does the dashboard need any improvements?
 
