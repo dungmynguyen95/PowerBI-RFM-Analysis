@@ -43,15 +43,15 @@ They aim to identify key customer groups:
 convert potential customers into loyal ones, and attract new customers.
 
 Step 2: 
-To obtain a complete customer profile, the Sales Department will collaborate with the Data Analysis (DA) team to research, 
+- To obtain a complete customer profile, the Sales Department will collaborate with the Data Analysis (DA) team to research, 
 consult, and visualize the answers to these questions.
 
 Step 3: 
-After drafting the dashboard, stakeholders will review it with the analyst to ensure it addresses all questions and meets the initial objectives.
-From these insights, are there any new ideas to explore?
-Does the dashboard need any improvements?
+- After drafting the dashboard, stakeholders will review it with the analyst to ensure it addresses all questions and meets the initial objectives.
+- From these insights, are there any new ideas to explore?
+- Does the dashboard need any improvements?
 
 Step 4:
-Use the finalized dashboard to evaluate, plan, and implement the next actions.
+- Use the finalized dashboard to evaluate, plan, and implement the next actions.
 
 
